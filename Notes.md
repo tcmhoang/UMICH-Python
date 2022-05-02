@@ -6,6 +6,7 @@
 * Slicing can reference beyond the string (to the end of it)
 * `in` operator like contains or `find`
 * `dir` show methods in instance
-
-## String
 * `lr_strip` trim
+* Dictionary also called Associative Array
+* For in dictionary  == dictionary.keys()
+
