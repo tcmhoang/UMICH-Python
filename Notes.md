@@ -61,3 +61,21 @@
 * OAuthConsumer
 * OAuthToken
     * OAuthRequest.from_consumer_and_token / .sign_request / .to_url
+
+## String
+* python3 unicode -> str
+* python2 bstr == unicode 
+
+## OOP
+* __init__
+* __del__
+* inherit using params in class keyword
+
+## sqlite3 lib
+
+* sqlite3.connect -> make connection -> create if not extisted
+* cur = instance.cursor()
+* cur.execute -> tuple
+* cur.fetchone
+* conn.commit 
+* cur.close
