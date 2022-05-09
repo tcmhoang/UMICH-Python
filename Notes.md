@@ -79,3 +79,7 @@
 * cur.fetchone
 * conn.commit 
 * cur.close
+
+
+## SQLite
+* Insert or Ignore / Replace
