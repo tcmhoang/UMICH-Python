@@ -11,6 +11,7 @@
 * For in dictionary  == dictionary.keys()
 * ord
 * import from or dot notation
+* `pass` did not blow up in except clause 
 
 ## re lib
 
@@ -83,3 +84,10 @@
 
 ## SQLite
 * Insert or Ignore / Replace
+
+## SYS lib
+* time.stop
+
+## codecs lib
+* codecs.open(FILE,MODE,CHAR COD)
+* write
